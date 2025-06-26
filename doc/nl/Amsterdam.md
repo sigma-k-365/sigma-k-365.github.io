@@ -1,0 +1,23 @@
+# Amsterdam
+![header img](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Amsterdam_%285086325695%29.jpg/1600px-Amsterdam_%285086325695%29.jpg?20180106224101)
+[Wikipedia](https://en.wikipedia.org/wiki/Amsterdam)  
+
+## Street
+### main station
+![img](https://lh3.googleusercontent.com/d/1zqGm9JARSZBDb27HB_9ynjGgXaxc1lM1)
+### canal
+![img](https://lh3.googleusercontent.com/d/1gSrx2TBFJjpXxfSqz5XdctZ844W4q_ma)
+
+## [Rijk Museum](https://www.rijksmuseum.nl/en)
+Open on Mondays as well, but an early reservation is highly recommended!
+![img](https://lh3.googleusercontent.com/d/1dCn13Y5v06g_ttj6vdYF0ZCvdD4og4xV)
+
+### Rembrandt
+![img](https://lh3.googleusercontent.com/d/1M9RhRsiZxldWz5hY003PFEzu3E6uGVuG)
+
+## library amsterdam
+![img](https://lh3.googleusercontent.com/d/1S0VYuitHzUa89216uMFf6YoRfwzxUtqI)
+### young adalt corner
+![img](https://lh3.googleusercontent.com/d/10GswCtGemiwAUuDOvIacYC2LpL5B_SKI)
+
+![img](https://lh3.googleusercontent.com/d/1O2890zvbVv4TPnwcIG_Tps6eEMyu57d9)
