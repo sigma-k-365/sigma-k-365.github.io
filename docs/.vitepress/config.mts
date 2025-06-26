@@ -49,6 +49,8 @@ export default defineConfig({
             link: '/de/' ,
             items: [
               { text: 'Braunschweig', link: '/de/Braunschweig' },
+              { text: 'Wuppertal', link: '/de/Wuppertal' },
+            
             ]
           },
           { 

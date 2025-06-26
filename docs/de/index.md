@@ -10,4 +10,7 @@ hero:
     - theme: brand
       text: Braunschweig
       link: ./Braunschweig
+    - theme: alt
+      text: Wuppetal
+      link: ./Wuppertal
 ---
