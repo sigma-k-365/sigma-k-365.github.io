@@ -10,4 +10,7 @@ hero:
     - theme: brand
       text: Lausanne
       link: ./Lausanne
+    - theme: alt
+      text: Bern
+      link: ./Bern
 ---

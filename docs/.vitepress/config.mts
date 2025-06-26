@@ -49,15 +49,34 @@ export default defineConfig({
             link: '/de/' ,
             items: [
               { text: 'Braunschweig', link: '/de/Braunschweig' },
-              { text: 'Wuppertal', link: '/de/Wuppertal' },
-            
+              /*
+              { text: 'Rhein', link: '/de/Rhein/' },
+              { text: 'Koeln', link: '/de/Koeln/' },
+              { text: 'Frankfurt', link: '/de/Frankfurt/' },
+              { text: 'Berlin', link: '/de/Berlin/' },
+              { text: 'Potsdam', link: '/de/Potsdam/' },
+              { text: 'Mainz', link: '/de/Mainz/' },
+              { text: 'Dresden', link: '/de/Dresden/' },
+              { text: 'Leibzig', link: '/de/Leibzig/' },
+              { text: 'Duesseldorf', link: '/de/Duesseldorf/' },
+              { text: 'Heidelberg', link: '/de/Heidelberg/' },
+              { text: 'Freiburg', link: '/de/Freiburg/' },
+              { text: 'Muenster', link: '/de/Muenster/' },
+              { text: 'Bonn', link: '/de/Bonn/' },
+              { text: 'Goettingen', link: '/de/Goettingen/' },
+               */
+              { text: 'Wuppertal', link: '/de/Wuppertal' }
             ]
           },
           { 
             text: 'Switzerland', 
             link: '/ch/' ,
             items: [
-              { text: 'Lausanne', link: '/ch/Lausanne' },
+              /*
+              { text: 'Basel', link: '/ch/Basel' },
+              { text: 'Bern', link: '/ch/Bern' },
+              */
+              { text: 'Lausanne', link: '/ch/Lausanne' }
             ]
           },
           { 
