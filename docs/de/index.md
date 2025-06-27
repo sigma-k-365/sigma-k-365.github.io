@@ -16,6 +16,9 @@ hero:
       text: Heidelberg
       link: ./Heidelberg
     - theme: brand
+      text: Koeln
+      link: ./Koeln
+    - theme: brand
       text: Leibzig
       link: ./Leibzig
     - theme: brand
@@ -32,9 +35,6 @@ hero:
     - theme: brand
       text: Rhein
       link: ./Rhein
-    - theme: brand
-      text: Koeln
-      link: ./Koeln
     - theme: brand
       text: Frankfurt
       link: ./Frankfurt

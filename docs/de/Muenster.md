@@ -9,7 +9,7 @@
 ![img](https://lh3.googleusercontent.com/d/1oO-Nmo1dw0gm3iM3QZR58Kv5LteQZnE2)
 
 ### Rumkugel von Röttinger
-![img](https://lh3.googleusercontent.com/d/1n7QNAZgEsnmQa4NLX3wlSOUcRPGJIVTN)
+![img](https://lh3.googleusercontent.com/d/1t35JicPMPP2jZe4yLnkziugOxkmthDl7)
 
 ## [Kunstmuseum Pablo Picaso Münster](https://www.kunstmuseum-picasso-muenster.de/)
 ![img](https://lh3.googleusercontent.com/d/1FAAPwfnovOELh-38LcS1873D-O3s6Os5)

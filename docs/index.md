@@ -12,13 +12,13 @@ hero:
   actions:
     - theme: brand
       text: Germany
-      link: ./de/
+      link: /de/
     - theme: alt
       text: Switzerland
-      link: ./ch/
+      link: /ch/
     - theme: brand
       text: Netherlands
-      link: ./nl/
+      link: /nl/
 
 features:
   - title: Special thanks
