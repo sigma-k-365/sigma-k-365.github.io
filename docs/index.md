@@ -3,11 +3,11 @@
 layout: home
 
 hero:
-  name: Log sigma
-  text: Photo album!
+  name: log sigma
+  text: Photo Album!
   tagline: photos taken by iPhone12 mini.
   image: {
-      light: '/img/logo_large_light.svg', dark: '/img/logo_large_dark.svg', alt: 'log sigma'
+      light: '/img/logo_home_light.svg', dark: '/img/logo_home_dark.svg', alt: 'log sigma'
     }
   actions:
     - theme: brand

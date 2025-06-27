@@ -4,7 +4,7 @@ import markdownItFoo from 'markdown-it-foo'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: 'album!',
+  title: ' ',
   locales:{
     root:{
       label:'English',
@@ -37,7 +37,7 @@ export default defineConfig({
   // configulations of the uppermost navigation bar
   themeConfig: {
     logo: {
-      light: '/img/logo_light.svg', dark: '/img/logo_dark.svg', alt: 'log sigma'
+      light: '/img/logo_nav_light.svg', dark: '/img/logo_nav_dark.svg', alt: 'log sigma Album!'
     },
     
     // https://vitepress.dev/reference/default-theme-config
