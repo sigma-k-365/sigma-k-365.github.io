@@ -49,22 +49,22 @@ export default defineConfig({
           { text: 'Bonn', link: '/de/Bonn/' },
           { text: 'Braunschweig', link: '/de/Braunschweig' },
           { text: 'Dresden', link: '/de/Dresden/' },
+          { text: 'Frankfurt am Main', link: '/de/Frankfurt/' },
+          { text: 'Freiburg', link: '/de/Freiburg/' },
+          { text: 'Göttingen', link: '/de/Goettingen/' },
           { text: 'Heidelberg', link: '/de/Heidelberg/' },
-            /*
-            { text: 'Rhein', link: '/de/Rhein/' },
-            { text: 'Frankfurt', link: '/de/Frankfurt/' },
-            { text: 'Berlin', link: '/de/Berlin/' },
-            { text: 'Mainz', link: '/de/Mainz/' },
-            { text: 'Duesseldorf', link: '/de/Duesseldorf/' },
-            { text: 'Freiburg', link: '/de/Freiburg/' },
-            { text: 'Goettingen', link: '/de/Goettingen/' },
-            */
-            { text: 'Köln', link: '/de/Koeln/' },
-            { text: 'Leibzig', link: '/de/Leibzig/' },
-            { text: 'Münster', link: '/de/Muenster/' },
-            { text: 'Potsdam', link: '/de/Potsdam/' },
-            { text: 'Wolfsburg', link: '/de/Wolfsburg' },
-            { text: 'Wuppertal', link: '/de/Wuppertal' }
+          /*
+          { text: 'Rhein', link: '/de/Rhein/' },
+          { text: 'Berlin', link: '/de/Berlin/' },
+          { text: 'Mainz', link: '/de/Mainz/' },
+          { text: 'Duesseldorf', link: '/de/Duesseldorf/' },
+          */
+          { text: 'Köln', link: '/de/Koeln/' },
+          { text: 'Leibzig', link: '/de/Leibzig/' },
+          { text: 'Münster', link: '/de/Muenster/' },
+          { text: 'Potsdam', link: '/de/Potsdam/' },
+          { text: 'Wolfsburg', link: '/de/Wolfsburg' },
+          { text: 'Wuppertal', link: '/de/Wuppertal' }
         ]
       },
       { 
@@ -95,15 +95,15 @@ export default defineConfig({
               { text: 'Bonn', link: 'Bonn' },
               { text: 'Braunschweig', link: 'Braunschweig' },
               { text: 'Dresden', link: 'Dresden' },
+              { text: 'Frankfurt am Main', link: 'Frankfurt' },
+              { text: 'Freiburg', link: 'Freiburg' },
+              { text: 'Göttingen', link: 'Goettingen' },
               { text: 'Heidelberg', link: 'Heidelberg' },
               /*
               { text: 'Rhein', link: 'Rhein' },
-              { text: 'Frankfurt', link: 'Frankfurt' },
               { text: 'Berlin', link: 'Berlin' },
               { text: 'Mainz', link: 'Mainz' },
               { text: 'Duesseldorf', link: 'Duesseldorf' },
-              { text: 'Freiburg', link: 'Freiburg' },
-              { text: 'Goettingen', link: 'Goettingen' },
                */
               { text: 'Köln', link: 'Koeln' },
               { text: 'Leibzig', link: 'Leibzig' },

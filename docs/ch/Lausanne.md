@@ -1,5 +1,5 @@
 # Lausanne
-<a title="AlterVista, CC BY-SA 3.0 &lt;http://creativecommons.org/licenses/by-sa/3.0/&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Lausanne_Kathedrale.JPG"><img  alt="Lausanne Kathedrale" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Lausanne_Kathedrale.JPG/512px-Lausanne_Kathedrale.JPG?20080509134041"></a>
+<a title="AlterVista, CC BY-SA 3.0 &lt;http://creativecommons.org/licenses/by-sa/3.0/&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Lausanne_Kathedrale.JPG"><img width="1024" alt="Lausanne Kathedrale" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Lausanne_Kathedrale.JPG/1024px-Lausanne_Kathedrale.JPG?20080509134041"></a>
 [Wikipedia](https://en.wikipedia.org/wiki/Lausanne)  
 
 ## Lavaux
