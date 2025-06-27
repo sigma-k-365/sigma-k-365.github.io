@@ -4,14 +4,14 @@ layout: home
 hero:
   name: Photos from Germany!
   image: 
-    src: ./Karte_Bundeslaender.png
+    src: /img/Karte_Bundeslaender.png
   tagline: 
   actions:
     - theme: brand
       text: Braunschweig
       link: ./Braunschweig
     - theme: alt
-      text: Wuppetal
+      text: Wuppertal
       link: ./Wuppertal
 ---
 <!--

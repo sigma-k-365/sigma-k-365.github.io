@@ -4,7 +4,7 @@ layout: home
 hero:
   name: Photos from Netherlands!
   image: 
-    src: ./Netherlands_map.png
+    src: /img/Netherlands_map.png
   tagline: 
   actions:
     - theme: brand

@@ -4,8 +4,7 @@ import markdownItFoo from 'markdown-it-foo'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: 'Album!',
-  description: "A photo album taken mainly by iPhone12 mini.",
+  title: 'album!',
   locales:{
     root:{
       label:'English',
@@ -27,6 +26,7 @@ export default defineConfig({
   },
 
   markdown : { 
+    // want to use LateX?
     math:true,
     image: {
       // image lazy loading is disabled by default
@@ -34,10 +34,53 @@ export default defineConfig({
     }
   },
 
+  // configulations of the uppermost navigation bar
   themeConfig: {
+    logo: {
+      light: '/img/logo_light.svg', dark: '/img/logo_dark.svg', alt: 'log sigma'
+    },
+    
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/' }
+      { text: 'Home', link: '/' },
+      { text: 'DE', 
+        items: [
+          { text: 'Braunschweig', link: '/de/Braunschweig' },
+            /*
+            { text: 'Rhein', link: '/de/Rhein/' },
+            { text: 'Koeln', link: '/de/Koeln/' },
+            { text: 'Frankfurt', link: '/de/Frankfurt/' },
+            { text: 'Berlin', link: '/de/Berlin/' },
+            { text: 'Potsdam', link: '/de/Potsdam/' },
+            { text: 'Mainz', link: '/de/Mainz/' },
+            { text: 'Dresden', link: '/de/Dresden/' },
+            { text: 'Leibzig', link: '/de/Leibzig/' },
+            { text: 'Duesseldorf', link: '/de/Duesseldorf/' },
+            { text: 'Heidelberg', link: '/de/Heidelberg/' },
+            { text: 'Freiburg', link: '/de/Freiburg/' },
+            { text: 'Muenster', link: '/de/Muenster/' },
+            { text: 'Bonn', link: '/de/Bonn/' },
+            { text: 'Goettingen', link: '/de/Goettingen/' },
+            */
+            { text: 'Wuppertal', link: '/de/Wuppertal' }
+          ]
+        },
+        { 
+            text: 'CH', 
+            items: [
+              /*
+              { text: 'Basel', link: '/ch/Basel' },
+              */
+              { text: 'Bern', link: '/ch/Bern' },
+              { text: 'Lausanne', link: '/ch/Lausanne' }
+            ]
+          },
+          { 
+            text: 'NL', 
+            items: [
+              { text: 'Amsterdam', link: '/nl/Amsterdam' },
+            ]
+          }
     ],
 
     sidebar: [
@@ -74,8 +117,8 @@ export default defineConfig({
             items: [
               /*
               { text: 'Basel', link: '/ch/Basel' },
-              { text: 'Bern', link: '/ch/Bern' },
               */
+              { text: 'Bern', link: '/ch/Bern' },
               { text: 'Lausanne', link: '/ch/Lausanne' }
             ]
           },
@@ -136,6 +179,15 @@ export default defineConfig({
           }
         }
       }
+    },
+
+    socialLinks: [
+      {icon: 'github', link: 'https://github.com/sigma-k-365/sigma-k-365.github.io'}
+    ],
+
+    footer : {
+      message: 'Released under the MIT License.',
+      copyright: 'Copyright © 2025-present'
     }
   }
 })
