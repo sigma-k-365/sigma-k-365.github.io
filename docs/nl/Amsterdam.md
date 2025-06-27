@@ -9,15 +9,15 @@
 ![img](https://lh3.googleusercontent.com/d/1gSrx2TBFJjpXxfSqz5XdctZ844W4q_ma)
 
 ## [Rijk Museum](https://www.rijksmuseum.nl/en)
-Open on Mondays as well, but an early reservation is highly recommended!
 ![img](https://lh3.googleusercontent.com/d/1dCn13Y5v06g_ttj6vdYF0ZCvdD4og4xV)
+Open on Mondays as well, but an early reservation is highly recommended.
 
 ### Rembrandt
 ![img](https://lh3.googleusercontent.com/d/1M9RhRsiZxldWz5hY003PFEzu3E6uGVuG)
 
 ## library amsterdam
 ![img](https://lh3.googleusercontent.com/d/1S0VYuitHzUa89216uMFf6YoRfwzxUtqI)
-### young adalt corner
+### young adult corner
 ![img](https://lh3.googleusercontent.com/d/10GswCtGemiwAUuDOvIacYC2LpL5B_SKI)
 
 ![img](https://lh3.googleusercontent.com/d/1O2890zvbVv4TPnwcIG_Tps6eEMyu57d9)

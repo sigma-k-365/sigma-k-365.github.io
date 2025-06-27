@@ -16,7 +16,7 @@ hero:
       text: Heidelberg
       link: ./Heidelberg
     - theme: brand
-      text: Koeln
+      text: Köln
       link: ./Koeln
     - theme: brand
       text: Leibzig
