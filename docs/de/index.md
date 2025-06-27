@@ -12,6 +12,9 @@ hero:
     - theme: alt
       text: Wuppertal
       link: ./Wuppertal
+    - theme: brand
+      text: Potsdam
+      link: ./Potsdam
 ---
 <!--
     - theme: brand
@@ -26,9 +29,6 @@ hero:
     - theme: brand
       text: Berlin
       link: ./Berlin
-    - theme: brand
-      text: Potsdam
-      link: ./Potsdam
     - theme: brand
       text: Mainz
       link: ./Mainz
