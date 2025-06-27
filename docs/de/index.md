@@ -9,15 +9,21 @@ hero:
     - theme: brand
       text: Braunschweig
       link: ./Braunschweig
-    - theme: alt
-      text: Wuppertal
-      link: ./Wuppertal
     - theme: brand
-      text: Muenster
+      text: Heidelberg
+      link: ./Heidelberg
+    - theme: brand
+      text: Leibzig
+      link: ./Leibzig
+    - theme: brand
+      text: Münster
       link: ./Muenster
     - theme: brand
       text: Potsdam
       link: ./Potsdam
+    - theme: alt
+      text: Wuppertal
+      link: ./Wuppertal
 ---
 <!--
     - theme: brand
@@ -39,14 +45,8 @@ hero:
       text: Dresden
       link: ./Dresden
     - theme: brand
-      text: Leibzig
-      link: ./Leibzig
-    - theme: brand
       text: Duesseldorf
       link: ./Duesseldorf
-    - theme: brand
-      text: Heidelberg
-      link: ./Heidelberg
     - theme: brand
       text: Freiburg
       link: ./Freiburg

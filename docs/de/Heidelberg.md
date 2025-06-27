@@ -1,6 +1,6 @@
 # Heidelberg
 ![img](https://lh3.googleusercontent.com/d/1y1i6FeP3eRdC0CmEW806LeZ0gDQugI4D)
-[Wikipedia](https://en.wikipedia.org/wiki/Wuppertal)  
+[Wikipedia](https://en.wikipedia.org/wiki/Heidelberg)  
 
 ### Brückenaffe at the Old Bridge
 ![img](https://lh3.googleusercontent.com/d/16TXAMDAoksSjiGlht4T1abnULXPv_Cku)
@@ -13,5 +13,5 @@
 ### [Monastery of St.Michael](https://www.heidelberg-marketing.de/en/poi/michaels-monastery)
 ![img](https://lh3.googleusercontent.com/d/1BUs6CpXTkq6o5am3ODltFkg9ccPWoGnT)
 
-### Heiligenberganlage Thingstätte
+### [Heiligenberganlage Thingstätte](https://www.heidelberg.de/HD/Besuchen/thingstaette.html)
 ![img](https://lh3.googleusercontent.com/d/1UKQReXBE52qRgBYNH9ELwr5PvEXKC5cI)
