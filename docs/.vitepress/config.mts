@@ -89,43 +89,47 @@ export default defineConfig({
         items: [
           { 
             text: 'Germany', 
-            link: '/de/' ,
+            base: '/de/',
+            link: 'index',
             items: [
-              { text: 'Braunschweig', link: '/de/Braunschweig' },
-              { text: 'Heidelberg', link: '/de/Heidelberg/' },
+              { text: 'Braunschweig', link: 'Braunschweig' },
+              { text: 'Heidelberg', link: 'Heidelberg' },
               /*
-              { text: 'Rhein', link: '/de/Rhein/' },
-              { text: 'Koeln', link: '/de/Koeln/' },
-              { text: 'Frankfurt', link: '/de/Frankfurt/' },
-              { text: 'Berlin', link: '/de/Berlin/' },
-              { text: 'Mainz', link: '/de/Mainz/' },
-              { text: 'Dresden', link: '/de/Dresden/' },
-              { text: 'Duesseldorf', link: '/de/Duesseldorf/' },
-              { text: 'Freiburg', link: '/de/Freiburg/' },
-              { text: 'Bonn', link: '/de/Bonn/' },
-              { text: 'Goettingen', link: '/de/Goettingen/' },
+              { text: 'Rhein', link: 'Rhein' },
+              { text: 'Koeln', link: 'Koeln' },
+              { text: 'Frankfurt', link: 'Frankfurt' },
+              { text: 'Berlin', link: 'Berlin' },
+              { text: 'Mainz', link: 'Mainz' },
+              { text: 'Dresden', link: 'Dresden' },
+              { text: 'Duesseldorf', link: 'Duesseldorf' },
+              { text: 'Freiburg', link: 'Freiburg' },
+              { text: 'Bonn', link: 'Bonn' },
+              { text: 'Goettingen', link: 'Goettingen' },
                */
-              { text: 'Leibzig', link: '/de/Leibzig/' },
-              { text: 'Münster', link: '/de/Muenster/' },
-              { text: 'Potsdam', link: '/de/Potsdam/' },
-              { text: 'Wuppertal', link: '/de/Wuppertal' }
+              { text: 'Leibzig', link: 'Leibzig' },
+              { text: 'Münster', link: 'Muenster' },
+              { text: 'Potsdam', link: 'Potsdam' },
+              { text: 'Wuppertal', link: 'Wuppertal' }
             ]
           },
           { 
-            text: 'Netherlands', link: '/nl/' ,
+            text: 'Netherlands', 
+            base: '/nl/' ,
+            link: 'index',
             items: [
               { text: 'Amsterdam', link: '/nl/Amsterdam' },
             ]
           },
           { 
             text: 'Switzerland', 
-            link: '/ch/' ,
+            base: '/ch/',
+            link: 'index',
             items: [
               /*
-              { text: 'Basel', link: '/ch/Basel' },
+              { text: 'Basel', link: 'Basel' },
               */
-              { text: 'Bern', link: '/ch/Bern' },
-              { text: 'Lausanne', link: '/ch/Lausanne' }
+              { text: 'Bern', link: 'Bern' },
+              { text: 'Lausanne', link: 'Lausanne' }
             ]
           }
         ]
