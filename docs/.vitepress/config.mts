@@ -57,10 +57,10 @@ export default defineConfig({
             { text: 'Duesseldorf', link: '/de/Duesseldorf/' },
             { text: 'Heidelberg', link: '/de/Heidelberg/' },
             { text: 'Freiburg', link: '/de/Freiburg/' },
-            { text: 'Muenster', link: '/de/Muenster/' },
             { text: 'Bonn', link: '/de/Bonn/' },
             { text: 'Goettingen', link: '/de/Goettingen/' },
             */
+            { text: 'Münster', link: '/de/Muenster/' },
             { text: 'Potsdam', link: '/de/Potsdam/' },
             { text: 'Wuppertal', link: '/de/Wuppertal' }
           ]
@@ -103,12 +103,18 @@ export default defineConfig({
               { text: 'Duesseldorf', link: '/de/Duesseldorf/' },
               { text: 'Heidelberg', link: '/de/Heidelberg/' },
               { text: 'Freiburg', link: '/de/Freiburg/' },
-              { text: 'Muenster', link: '/de/Muenster/' },
               { text: 'Bonn', link: '/de/Bonn/' },
               { text: 'Goettingen', link: '/de/Goettingen/' },
                */
+              { text: 'Münster', link: '/de/Muenster/' },
               { text: 'Potsdam', link: '/de/Potsdam/' },
               { text: 'Wuppertal', link: '/de/Wuppertal' }
+            ]
+          },
+          { 
+            text: 'Netherlands', link: '/nl/' ,
+            items: [
+              { text: 'Amsterdam', link: '/nl/Amsterdam' },
             ]
           },
           { 
@@ -120,12 +126,6 @@ export default defineConfig({
               */
               { text: 'Bern', link: '/ch/Bern' },
               { text: 'Lausanne', link: '/ch/Lausanne' }
-            ]
-          },
-          { 
-            text: 'Netherlands', link: '/nl/' ,
-            items: [
-              { text: 'Amsterdam', link: '/nl/Amsterdam' },
             ]
           }
         ]

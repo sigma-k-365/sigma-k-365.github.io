@@ -13,6 +13,9 @@ hero:
       text: Wuppertal
       link: ./Wuppertal
     - theme: brand
+      text: Muenster
+      link: ./Muenster
+    - theme: brand
       text: Potsdam
       link: ./Potsdam
 ---
@@ -47,9 +50,6 @@ hero:
     - theme: brand
       text: Freiburg
       link: ./Freiburg
-    - theme: brand
-      text: Muenster
-      link: ./Muenster
     - theme: brand
       text: Bonn
       link: ./Bonn
