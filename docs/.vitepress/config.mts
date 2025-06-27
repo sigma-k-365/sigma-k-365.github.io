@@ -43,7 +43,8 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'DE', 
+      { 
+        text: 'DE', 
         items: [
           { text: 'Braunschweig', link: '/de/Braunschweig' },
           { text: 'Heidelberg', link: '/de/Heidelberg/' },
@@ -63,24 +64,24 @@ export default defineConfig({
             { text: 'Münster', link: '/de/Muenster/' },
             { text: 'Potsdam', link: '/de/Potsdam/' },
             { text: 'Wuppertal', link: '/de/Wuppertal' }
-          ]
-        },
-        { 
-            text: 'CH', 
-            items: [
-              /*
-              { text: 'Basel', link: '/ch/Basel' },
-              */
-              { text: 'Bern', link: '/ch/Bern' },
-              { text: 'Lausanne', link: '/ch/Lausanne' }
-            ]
-          },
-          { 
-            text: 'NL', 
-            items: [
-              { text: 'Amsterdam', link: '/nl/Amsterdam' },
-            ]
-          }
+        ]
+      },
+      { 
+        text: 'NL', 
+        items: [
+          { text: 'Amsterdam', link: '/nl/Amsterdam' },
+        ]
+      },
+      { 
+        text: 'CH', 
+        items: [
+          /*
+          { text: 'Basel', link: '/ch/Basel' },
+          */
+          { text: 'Bern', link: '/ch/Bern' },
+          { text: 'Lausanne', link: '/ch/Lausanne' }
+        ]
+      }
     ],
 
     sidebar: [
@@ -93,6 +94,7 @@ export default defineConfig({
             link: 'index',
             items: [
               { text: 'Braunschweig', link: 'Braunschweig' },
+              { text: 'Dresden', link: 'Dresden' },
               { text: 'Heidelberg', link: 'Heidelberg' },
               /*
               { text: 'Rhein', link: 'Rhein' },
@@ -100,7 +102,6 @@ export default defineConfig({
               { text: 'Frankfurt', link: 'Frankfurt' },
               { text: 'Berlin', link: 'Berlin' },
               { text: 'Mainz', link: 'Mainz' },
-              { text: 'Dresden', link: 'Dresden' },
               { text: 'Duesseldorf', link: 'Duesseldorf' },
               { text: 'Freiburg', link: 'Freiburg' },
               { text: 'Bonn', link: 'Bonn' },
@@ -191,7 +192,7 @@ export default defineConfig({
 
     footer : {
       message: 'Released under the MIT License.',
-      copyright: 'Copyright © 2025-present'
+      copyright: 'Copyright © 2025-present sigma-k-365'
     }
   }
 })

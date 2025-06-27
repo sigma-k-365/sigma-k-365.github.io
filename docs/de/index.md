@@ -10,6 +10,9 @@ hero:
       text: Braunschweig
       link: ./Braunschweig
     - theme: brand
+      text: Dresden
+      link: ./Dresden
+    - theme: brand
       text: Heidelberg
       link: ./Heidelberg
     - theme: brand
@@ -41,9 +44,6 @@ hero:
     - theme: brand
       text: Mainz
       link: ./Mainz
-    - theme: brand
-      text: Dresden
-      link: ./Dresden
     - theme: brand
       text: Duesseldorf
       link: ./Duesseldorf

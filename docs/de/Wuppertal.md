@@ -1,5 +1,5 @@
 # Wuppertal
-<a title="JuergenG, CC BY-SA 3.0 &lt;http://creativecommons.org/licenses/by-sa/3.0/&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Wuppertal_kaiserwagen.jpg"><img alt="Wuppertal kaiserwagen" src="https://upload.wikimedia.org/wikipedia/commons/3/36/Wuppertal_kaiserwagen.jpg?20091228202002"></a>
+<a title="JuergenG, CC BY-SA 3.0 &lt;http://creativecommons.org/licenses/by-sa/3.0/&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Wuppertal_kaiserwagen.jpg"><img width="512" alt="Wuppertal kaiserwagen" src="https://upload.wikimedia.org/wikipedia/commons/3/36/Wuppertal_kaiserwagen.jpg?20091228202002"></a>
 [Wikipedia](https://en.wikipedia.org/wiki/Wuppertal)  
 
 ## [Skulpturenpark Waldfrieden, scruptures by Tony Cragg](https://skulpturenpark-waldfrieden.de/)

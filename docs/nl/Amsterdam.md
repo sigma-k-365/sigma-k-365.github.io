@@ -1,5 +1,5 @@
 # Amsterdam
-<a title="Moyan Brenn from Italy, CC BY 2.0 &lt;https://creativecommons.org/licenses/by/2.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Amsterdam_(5086325695).jpg"><img alt="Amsterdam (5086325695)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Amsterdam_%285086325695%29.jpg/512px-Amsterdam_%285086325695%29.jpg?20180106224101"></a>
+<a title="Moyan Brenn from Italy, CC BY 2.0 &lt;https://creativecommons.org/licenses/by/2.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Amsterdam_(5086325695).jpg"><img width="1024" alt="Amsterdam (5086325695)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Amsterdam_%285086325695%29.jpg/1024px-Amsterdam_%285086325695%29.jpg?20180106224101"></a>
 [Wikipedia](https://en.wikipedia.org/wiki/Amsterdam)  
 
 ## Street
