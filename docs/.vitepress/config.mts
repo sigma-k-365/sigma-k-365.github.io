@@ -63,6 +63,7 @@ export default defineConfig({
             { text: 'Leibzig', link: '/de/Leibzig/' },
             { text: 'Münster', link: '/de/Muenster/' },
             { text: 'Potsdam', link: '/de/Potsdam/' },
+            { text: 'Wolfsburg', link: '/de/Wolfsburg' },
             { text: 'Wuppertal', link: '/de/Wuppertal' }
         ]
       },
@@ -110,6 +111,7 @@ export default defineConfig({
               { text: 'Leibzig', link: 'Leibzig' },
               { text: 'Münster', link: 'Muenster' },
               { text: 'Potsdam', link: 'Potsdam' },
+              { text: 'Wolfsburg', link: 'Wolfsburg' },
               { text: 'Wuppertal', link: 'Wuppertal' }
             ]
           },

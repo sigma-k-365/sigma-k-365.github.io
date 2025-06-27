@@ -28,6 +28,9 @@ hero:
       text: Potsdam
       link: ./Potsdam
     - theme: alt
+      text: Wolfsburg
+      link: ./Wolfsburg
+    - theme: alt
       text: Wuppertal
       link: ./Wuppertal
 ---

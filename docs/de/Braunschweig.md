@@ -6,5 +6,7 @@
 ![img](https://lh3.googleusercontent.com/d/1iLtpHEmthxh-fYExb0pm_Gfj37XPeF4g)
 ### Takeshi Kitano?
 ![img](https://lh3.googleusercontent.com/d/1VqcYnO5XNPIEzEM2-uY7s6mSJfMHqet9)
-### Summar
+
 <img src=https://lh3.googleusercontent.com/d/1aF7xZosSDDT3V0pMGZjOREVYrLq7ZzYn>
+
+![img](https://lh3.googleusercontent.com/d/1rh3-qXWVJNBNC-OEVvDGv0lS753du6-9)
