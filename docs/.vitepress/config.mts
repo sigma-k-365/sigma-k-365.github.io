@@ -46,6 +46,7 @@ export default defineConfig({
       { text: 'DE', 
         items: [
           { text: 'Braunschweig', link: '/de/Braunschweig' },
+          { text: 'Heidelberg', link: '/de/Heidelberg/' },
             /*
             { text: 'Rhein', link: '/de/Rhein/' },
             { text: 'Koeln', link: '/de/Koeln/' },
@@ -55,7 +56,6 @@ export default defineConfig({
             { text: 'Dresden', link: '/de/Dresden/' },
             { text: 'Leibzig', link: '/de/Leibzig/' },
             { text: 'Duesseldorf', link: '/de/Duesseldorf/' },
-            { text: 'Heidelberg', link: '/de/Heidelberg/' },
             { text: 'Freiburg', link: '/de/Freiburg/' },
             { text: 'Bonn', link: '/de/Bonn/' },
             { text: 'Goettingen', link: '/de/Goettingen/' },
@@ -92,6 +92,7 @@ export default defineConfig({
             link: '/de/' ,
             items: [
               { text: 'Braunschweig', link: '/de/Braunschweig' },
+              { text: 'Heidelberg', link: '/de/Heidelberg/' },
               /*
               { text: 'Rhein', link: '/de/Rhein/' },
               { text: 'Koeln', link: '/de/Koeln/' },
@@ -101,7 +102,6 @@ export default defineConfig({
               { text: 'Dresden', link: '/de/Dresden/' },
               { text: 'Leibzig', link: '/de/Leibzig/' },
               { text: 'Duesseldorf', link: '/de/Duesseldorf/' },
-              { text: 'Heidelberg', link: '/de/Heidelberg/' },
               { text: 'Freiburg', link: '/de/Freiburg/' },
               { text: 'Bonn', link: '/de/Bonn/' },
               { text: 'Goettingen', link: '/de/Goettingen/' },
