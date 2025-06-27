@@ -7,6 +7,9 @@ hero:
   tagline: 
   actions:
     - theme: brand
+      text: Bonn
+      link: ./Bonn
+    - theme: alt
       text: Braunschweig
       link: ./Braunschweig
     - theme: brand
@@ -53,9 +56,6 @@ hero:
     - theme: brand
       text: Freiburg
       link: ./Freiburg
-    - theme: brand
-      text: Bonn
-      link: ./Bonn
     - theme: brand
       text: Goettingen
       link: ./Goettingen

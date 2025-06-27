@@ -46,6 +46,7 @@ export default defineConfig({
       { 
         text: 'DE', 
         items: [
+          { text: 'Bonn', link: '/de/Bonn/' },
           { text: 'Braunschweig', link: '/de/Braunschweig' },
           { text: 'Dresden', link: '/de/Dresden/' },
           { text: 'Heidelberg', link: '/de/Heidelberg/' },
@@ -56,7 +57,6 @@ export default defineConfig({
             { text: 'Mainz', link: '/de/Mainz/' },
             { text: 'Duesseldorf', link: '/de/Duesseldorf/' },
             { text: 'Freiburg', link: '/de/Freiburg/' },
-            { text: 'Bonn', link: '/de/Bonn/' },
             { text: 'Goettingen', link: '/de/Goettingen/' },
             */
             { text: 'Köln', link: '/de/Koeln/' },
@@ -76,9 +76,7 @@ export default defineConfig({
       { 
         text: 'CH', 
         items: [
-          /*
           { text: 'Basel', link: '/ch/Basel' },
-          */
           { text: 'Bern', link: '/ch/Bern' },
           { text: 'Lausanne', link: '/ch/Lausanne' }
         ]
@@ -94,6 +92,7 @@ export default defineConfig({
             base: '/de/',
             link: 'index',
             items: [
+              { text: 'Bonn', link: 'Bonn' },
               { text: 'Braunschweig', link: 'Braunschweig' },
               { text: 'Dresden', link: 'Dresden' },
               { text: 'Heidelberg', link: 'Heidelberg' },
@@ -104,7 +103,6 @@ export default defineConfig({
               { text: 'Mainz', link: 'Mainz' },
               { text: 'Duesseldorf', link: 'Duesseldorf' },
               { text: 'Freiburg', link: 'Freiburg' },
-              { text: 'Bonn', link: 'Bonn' },
               { text: 'Goettingen', link: 'Goettingen' },
                */
               { text: 'Köln', link: 'Koeln' },
@@ -128,9 +126,7 @@ export default defineConfig({
             base: '/ch/',
             link: 'index',
             items: [
-              /*
               { text: 'Basel', link: 'Basel' },
-              */
               { text: 'Bern', link: 'Bern' },
               { text: 'Lausanne', link: 'Lausanne' }
             ]

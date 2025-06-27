@@ -5,6 +5,9 @@ hero:
   name: Switzerland!
   tagline: 
   actions:
+    - theme: alt
+      text: Basel
+      link: ./Basel
     - theme: brand
       text: Bern
       link: ./Bern
