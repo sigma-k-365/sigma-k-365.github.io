@@ -117,7 +117,7 @@ export default defineConfig({
             base: '/nl/' ,
             link: 'index',
             items: [
-              { text: 'Amsterdam', link: '/nl/Amsterdam' },
+              { text: 'Amsterdam', link: 'Amsterdam' }
             ]
           },
           { 
