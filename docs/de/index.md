@@ -2,9 +2,8 @@
 layout: home
 
 hero:
-  name: Photos from Germany!
+  name: Germany!
   image: 
-    src: /img/Karte_Bundeslaender.png
   tagline: 
   actions:
     - theme: brand
@@ -58,3 +57,4 @@ hero:
       text: Goettingen
       link: ./Goettingen
 -->
+<a title="David Liuzzo, derivative work by User:elya, CC BY-SA 2.5 &lt;https://creativecommons.org/licenses/by-sa/2.5&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Karte_Deutsche_Bundesl%C3%A4nder_farbig_beschriftet.png"><img alt="Karte Deutsche Bundesländer farbig beschriftet" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Karte_Deutsche_Bundesl%C3%A4nder_farbig_beschriftet.png/256px-Karte_Deutsche_Bundesl%C3%A4nder_farbig_beschriftet.png?20150429111809"></a>
