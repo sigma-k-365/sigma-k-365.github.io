@@ -64,8 +64,17 @@ export default defineConfig({
           { text: 'München', link: '/de/Muenchen/' },
           { text: 'Münster', link: '/de/Muenster/' },
           { text: 'Potsdam', link: '/de/Potsdam/' },
+          { text: 'Rostock', link: '/de/Rostock/' },
           { text: 'Wolfsburg', link: '/de/Wolfsburg' },
           { text: 'Wuppertal', link: '/de/Wuppertal' }
+        ]
+      },
+      { 
+        text: 'JP', 
+        items: [
+          //{ text: 'Ueno', link: '/jp/Ueno' },
+          { text: 'Kasai', link: '/jp/Kasai' },
+          { text: 'Tama', link: '/jp/Tama' },
         ]
       },
       { 
@@ -118,8 +127,24 @@ export default defineConfig({
               { text: 'München', link: 'Muenchen' },
               { text: 'Münster', link: 'Muenster' },
               { text: 'Potsdam', link: 'Potsdam' },
+              { text: 'Rostock', link: 'Rostock' },
               { text: 'Wolfsburg', link: 'Wolfsburg' },
               { text: 'Wuppertal', link: 'Wuppertal' }
+            ]
+          },
+          { 
+            text: 'Japan', 
+            base: '/jp/' ,
+            link: 'index',
+            items: [
+              { 
+                text: 'Tokyo',
+                items:[
+                  //{text: 'Ueno', link: 'Ueno' },
+                  {text: 'Kasai', link: 'Kasai' },
+                  {text: 'Tama', link: 'Tama' },
+                ]
+              }
             ]
           },
           { 

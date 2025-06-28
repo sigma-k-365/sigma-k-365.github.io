@@ -7,6 +7,9 @@ hero:
   tagline: 
   actions:
     - theme: brand
+      text: Berlin
+      link: ./Berlin
+    - theme: brand
       text: Bonn
       link: ./Bonn
     - theme: alt
@@ -18,6 +21,9 @@ hero:
     - theme: brand
       text: Frankfurt
       link: ./Frankfurt
+    - theme: brand
+      text: Frankfurt
+      link: ./Freiburg
     - theme: brand
       text: Goettingen
       link: ./Goettingen
@@ -39,6 +45,9 @@ hero:
     - theme: brand
       text: Potsdam
       link: ./Potsdam
+    - theme: brand
+      text: Rostock
+      link: ./Rostock
     - theme: alt
       text: Wolfsburg
       link: ./Wolfsburg
@@ -47,12 +56,6 @@ hero:
       link: ./Wuppertal
 ---
 <!--
-    - theme: brand
-      text: Rhein
-      link: ./Rhein
-    - theme: brand
-      text: Berlin
-      link: ./Berlin
     - theme: brand
       text: Mainz
       link: ./Mainz
