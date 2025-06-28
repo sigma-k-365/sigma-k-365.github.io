@@ -61,6 +61,7 @@ export default defineConfig({
           */
           { text: 'Köln', link: '/de/Koeln/' },
           { text: 'Leibzig', link: '/de/Leibzig/' },
+          { text: 'München', link: '/de/Muenchen/' },
           { text: 'Münster', link: '/de/Muenster/' },
           { text: 'Potsdam', link: '/de/Potsdam/' },
           { text: 'Wolfsburg', link: '/de/Wolfsburg' },
@@ -114,6 +115,7 @@ export default defineConfig({
                */
               { text: 'Köln', link: 'Koeln' },
               { text: 'Leibzig', link: 'Leibzig' },
+              { text: 'München', link: 'Muenchen' },
               { text: 'Münster', link: 'Muenster' },
               { text: 'Potsdam', link: 'Potsdam' },
               { text: 'Wolfsburg', link: 'Wolfsburg' },

@@ -31,6 +31,9 @@ hero:
       text: Leibzig
       link: ./Leibzig
     - theme: brand
+      text: München
+      link: ./Muenchen
+    - theme: brand
       text: Münster
       link: ./Muenster
     - theme: brand
