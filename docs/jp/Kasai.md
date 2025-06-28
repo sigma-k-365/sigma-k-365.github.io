@@ -1,7 +1,7 @@
 # Kasai
 [Wikipedia](https://en.wikipedia.org/wiki/Kasai_Station)  
 
-## [Tama Zoological Park](https://en.wikipedia.org/wiki/Tama_Zoological_Park)
+## [Kasai Rinkai Park](https://www.japan.travel/en/spot/1647/)
 ![img](https://lh3.googleusercontent.com/d/1mnC1KaEVVqnSWmwd_EQuE5r2PR_SRGa3)
 
 ![img](https://lh3.googleusercontent.com/d/1X4Yhmes-5SpjQEpgu0x-JUDAD7di4ySD)
