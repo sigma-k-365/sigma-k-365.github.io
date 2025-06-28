@@ -11,6 +11,9 @@
 ### Rumkugel von Röttinger
 ![img](https://lh3.googleusercontent.com/d/1t35JicPMPP2jZe4yLnkziugOxkmthDl7)
 
+## Mühlenhof-Freilichtmuseum Münster
+![img](https://lh3.googleusercontent.com/d/1LPuxdgA6I6LfuB_PqgRdo0Bprd6cV5f6)
+
 ## [Kunstmuseum Pablo Picaso Münster](https://www.kunstmuseum-picasso-muenster.de/)
 ![img](https://lh3.googleusercontent.com/d/1FAAPwfnovOELh-38LcS1873D-O3s6Os5)
 

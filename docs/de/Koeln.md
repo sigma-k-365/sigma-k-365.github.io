@@ -2,6 +2,10 @@
 ![img](https://lh3.googleusercontent.com/d/1-lDlw8x9yF-lZbNjMtT1w5G0WEv-0JZa)
 [Wikipedia](https://en.wikipedia.org/wiki/Köln)  
 
+![img](https://lh3.googleusercontent.com/d/1MmFw1QMPpinH95k_CiMNxFcwgQ3ytzTN)
+
+![img](https://lh3.googleusercontent.com/d/14-MV7taTHYgsCCfWoBKZtu-_rn4lchKU)
+
 ![img](https://lh3.googleusercontent.com/d/1WbwwXS3hqBprAhO9TuNQYfLUi9vY6ZOt)
 
 ## [Wallraf-Richartz-Museum](https://www.wallraf.museum/en/the-museum/)

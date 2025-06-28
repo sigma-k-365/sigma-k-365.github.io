@@ -46,6 +46,7 @@ export default defineConfig({
       { 
         text: 'DE', 
         items: [
+          { text: 'Berlin', link: '/de/Berlin/' },
           { text: 'Bonn', link: '/de/Bonn/' },
           { text: 'Braunschweig', link: '/de/Braunschweig' },
           { text: 'Dresden', link: '/de/Dresden/' },
@@ -55,7 +56,6 @@ export default defineConfig({
           { text: 'Heidelberg', link: '/de/Heidelberg/' },
           /*
           { text: 'Rhein', link: '/de/Rhein/' },
-          { text: 'Berlin', link: '/de/Berlin/' },
           { text: 'Mainz', link: '/de/Mainz/' },
           { text: 'Duesseldorf', link: '/de/Duesseldorf/' },
           */
@@ -71,6 +71,13 @@ export default defineConfig({
         text: 'NL', 
         items: [
           { text: 'Amsterdam', link: '/nl/Amsterdam' },
+        ]
+      },
+      { 
+        text: 'PL', 
+        items: [
+          { text: 'Auschwitz-Birkenau', link: '/pl/Auschwitz-Birkenau' },
+          { text: 'Warsaw', link: '/pl/Warsaw' },
         ]
       },
       { 
@@ -92,6 +99,7 @@ export default defineConfig({
             base: '/de/',
             link: 'index',
             items: [
+              { text: 'Berlin', link: 'Berlin' },
               { text: 'Bonn', link: 'Bonn' },
               { text: 'Braunschweig', link: 'Braunschweig' },
               { text: 'Dresden', link: 'Dresden' },
@@ -101,7 +109,6 @@ export default defineConfig({
               { text: 'Heidelberg', link: 'Heidelberg' },
               /*
               { text: 'Rhein', link: 'Rhein' },
-              { text: 'Berlin', link: 'Berlin' },
               { text: 'Mainz', link: 'Mainz' },
               { text: 'Duesseldorf', link: 'Duesseldorf' },
                */
@@ -119,6 +126,15 @@ export default defineConfig({
             link: 'index',
             items: [
               { text: 'Amsterdam', link: 'Amsterdam' }
+            ]
+          },
+          { 
+            text: 'Poland', 
+            base: '/pl/' ,
+            link: 'index',
+            items: [
+              { text: 'Auschwitz-Birkenau', link: 'Auschwitz-Birkenau' },
+              { text: 'Warsaw', link: 'Warsaw' }
             ]
           },
           { 

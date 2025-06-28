@@ -14,11 +14,14 @@ hero:
       text: Germany
       link: /de/
     - theme: alt
-      text: Switzerland
-      link: /ch/
-    - theme: brand
       text: Netherlands
       link: /nl/
+    - theme: brand
+      text: Poland
+      link: /pl/
+    - theme: alt
+      text: Switzerland
+      link: /ch/
 
 features:
   - title: Special thanks
