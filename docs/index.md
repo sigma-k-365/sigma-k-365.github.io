@@ -5,7 +5,7 @@ layout: home
 hero:
   name: log sigma
   text: Photo Album!
-  tagline: photos taken by iPhone12 mini.
+  tagline: photos by iPhone12 mini.
   image: {
       light: '/img/logo_home_light.svg', dark: '/img/logo_home_dark.svg', alt: 'log sigma'
     }
@@ -14,12 +14,15 @@ hero:
       text: Germany
       link: /de/
     - theme: alt
+      text: Japan
+      link: /jp/
+    - theme: brand
       text: Netherlands
       link: /nl/
-    - theme: brand
+    - theme: alt
       text: Poland
       link: /pl/
-    - theme: alt
+    - theme: brand
       text: Switzerland
       link: /ch/
 
